@@ -159,3 +159,7 @@ Use `databases` + `SQLAlchemy` to store analysis history.
 
 ## 📄 License
 MIT — free to use, extend, and deploy.
+<img width="897" height="651" alt="image" src="https://github.com/user-attachments/assets/8fddc257-b1e2-4aab-9299-e7eb079e0a2f" />
+
+<img width="855" height="647" alt="image" src="https://github.com/user-attachments/assets/d0ded650-1276-42d8-b856-4c74e2fc40e3" />
+<img width="921" height="581" alt="image" src="https://github.com/user-attachments/assets/71b74846-13a5-47e0-8f58-27d3d4b1cb4c" />
